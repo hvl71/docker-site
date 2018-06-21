@@ -22,5 +22,8 @@ COPY content/ .
 #then you can for instance:
 #ipconfig, ls, get-windowsfeature etc..
 
+#will this work.. content updated..
+
+
 
 

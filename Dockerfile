@@ -26,5 +26,6 @@ COPY content/ .
 
 #changed dockerfile file name to Dockerfile to make it build on dockerhub.. git st show no changes.. probably windows.. forcing change by writing comment..
 
+#damn it.. building windows based images is not supported on dockerhub.. yet.. https://docs.docker.com/docker-hub/builds/
 
 

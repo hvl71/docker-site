@@ -24,6 +24,7 @@ COPY content/ .
 
 #will this work.. content updated..
 
+#changed dockerfile file name to Dockerfile to make it build on dockerhub.. git st show no changes.. probably windows.. forcing change by writing comment..
 
 
 
